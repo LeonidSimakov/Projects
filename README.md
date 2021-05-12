@@ -1,3 +1,3 @@
 # Projects
-There're my all projects
+There're my all projects.
 Will be completed later...
